@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **davi.vinco.contato@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="linkedin.com/in/davi-vinco/"</h3></a>
 <p align="left">
 </p>
 
